@@ -1,0 +1,7 @@
+{
+    "copyFiles": ["AppsFlyerPlugin.java"],
+    "libraries": [],
+    "jars": ["AF-Android-SDK-v1.3.19.jar"],
+    "injectionXML": "manifest.xml",
+	"injectionXSL": "manifest.xsl"
+}
