@@ -7,7 +7,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.appslyer.AppsFlyerLib;
+import com.appsflyer.AppsFlyerLib;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -81,6 +81,5 @@ public class AppsFlyerPlugin implements IPlugin {
 	}
 
 	public void onBackPressed() {
-		return true;
 	}
 }
