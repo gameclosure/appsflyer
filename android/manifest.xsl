@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:android="http://schemas.android.com/apk/res/android">
 
-	<xsl:param name="appsFlyerDevKey" />
+	<xsl:param name="appsFlyerKey" />
 
 	<xsl:output indent="yes" />
 	<xsl:template match="comment()" />
